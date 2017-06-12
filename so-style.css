@@ -1,0 +1,267 @@
+/*  SECTIONS  */
+
+#so-container .section {
+    clear: both;
+    padding: 0px;
+    margin: 0px;
+}
+
+@media screen and (max-width: 550px) {
+    #so-container #so-bottom img {
+        padding-top: 50px;
+    }
+    #so-container #so-bottom h1 {
+        font-size: 1em!important;
+    }
+    #so-container .iframe-container iframe {
+        border-width: 5px!important;
+    }
+}
+
+
+/*  GROUPING  */
+
+#so-container .group:before,
+#so-container .group:after {
+    content: "";
+    display: table;
+}
+
+#so-container .group:after {
+    clear: both;
+}
+
+#so-container .group {
+    zoom: 1;
+    /* For IE 6/7 */
+}
+
+
+/*  GRID OF THREE  */
+
+#so-container .span_3_of_3 {
+    width: 100%;
+}
+
+
+/*  GO FULL WIDTH BELOW 480 PIXELS */
+
+@media only screen and (max-width: 480px) {
+    #so-container .span_3_of_3 {
+        width: 100%;
+        width: 100%;
+        bottom
+    }
+    #so-container .hide-mobile {
+        display: none;
+    }
+    #so-container .so-list {
+        font-size: 1.75em!important;
+    }
+    #so-container #so-top h1 {
+        font-size: 2.5em!important;
+    }
+    #so-container .so-image img {
+        width: 100%;
+        height: auto;
+        padding-top: 30px;
+    }
+    #so-container #so-bottom h1 {
+        font-size: 1.4em!important;
+        padding-bottom: 20px;
+    }
+    #so-container .lower-CTA, #so-container .lower-CTA-ty {
+        font-size: 1.4em!important;
+    }
+    #so-container .lower-CTA-return {
+        font-size: 1.1em!important;
+    }
+}
+
+#so-container {
+    max-width: 950px;
+    background-color: #78bfe9;
+}
+
+#so-container p {
+    padding-bottom: 1em!important;
+}
+
+#so-container .lower-CTA, #so-container .lower-CTA-ty {
+    background: #004c83;
+    font-family: 'Oswald', sans-serif;
+    font-size: 2em;
+    color: #ffed27;
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    padding: 5px;
+    text-decoration: none;
+}
+
+
+
+#so-container a {
+    text-decoration: none;
+}
+
+#so-container #so-top h1,
+#so-container #so-bottom h1 {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: -1px;
+    padding-top: 10px;
+}
+
+#so-container #so-bottom h1 {
+    color: #fff;
+    font-size: 1.6em;
+    margin: 0;
+}
+
+#so-container #so-top h1 {
+    color: #46b6ff;
+    font-size: 4em;
+    padding-top: 60px;
+}
+
+#so-container #so-bottom, #so-thankyou h1 {
+    font-size: 3em;
+    padding-top: 0;
+    color: #fff;
+    display: block;
+}
+
+#so-container .so-list ul li {
+    padding-bottom: 0.3em;
+    list-style-image: url('http://media.chainreactioncycles.com/is/image/ChainReactionCycles/so-star?scl=1&qlt=99&fmt=png-alpha');
+}
+
+#so-container #so-top {
+    clear: both;
+    margin-left: auto;
+    margin-right: auto;
+    text-transform: uppercase;
+}
+
+#so-container .so-list, #so-thankyou {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 2.5em;
+    font-weight: 300;
+    color: #fff;
+    letter-spacing: -1px;
+    padding-bottom: 160px;
+}
+
+#so-thankyou {
+    padding-left:10%;
+    padding-right:10%;
+}
+#so-thankyou h2 {
+    font-size: 1.4em;
+    padding-top: 50px;
+    
+}
+
+#so-container .so-list ul {
+    padding: 0;
+    margin: 0;
+    list-style-position: inside;
+}
+
+#so-container .so-list ul li span {
+    font-weight: 500;
+}
+
+#so-container #so-top {
+    background-image: url("http://media.chainreactioncycles.com/is/image/ChainReactionCycles/so-Nukeproof?scl=1&qlt=99&fmt=png-alpha");
+    z-index: -999999;
+    background-position: left 7em top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background: background-size: 60% cover;
+    background-color: #003c72;
+}
+
+#so-container .so-image img {
+    position: relative;
+    top: -207px;
+    clear: both;
+}
+
+#so-container .iframe-container iframe {
+    display: block;
+    margin: 0 auto;
+    border: 1em solid #d6ecf8;
+    border-radius: 15px;
+}
+
+#so-container #so-footer {
+    padding: 30px;
+}
+
+#so-container #so-footer-ty {
+    margin-bottom: 230px;
+}
+
+#so-container .so-image {
+    margin-bottom: -200px;
+}
+
+.fieldLabel, .sectionHeader {
+    color: #ffffff!important;
+    font-family: sans-serif!important;
+    font-size: 1.5em!important;
+    font-weight: 300!important;
+    margin-bottom: 0.5em!important;   
+}
+
+input[type="text"] {
+    width: 100%!important;
+    font-size: 16px!important;
+    padding: 5px 0px 5px 10px!important;
+    height: 40px!important; 
+    color: #666!important;
+    line-height: 20px!important;
+    font-family: arial!important;
+    border: solid 1px #C9C9C9;
+}
+
+.submitButton, .buttonStyle {
+    background: #1c68ac!important;
+    border: medium none!important;
+    color: #fff!important;
+    display: inline-block!important;
+    font: bold 22px sans-serif!important;    
+    -webkit-font-smoothing: antialiased!important;
+    height: 35px!important;
+    line-height: 36px!important;
+    margin: 5px 0 0 0!important;
+    padding: 0 20px 0 20px!important;
+    white-space: nowrap!important;
+    overflow: hidden!important;
+}
+
+.submitButton:hover, .buttonStyle:hover {
+    background: #4caaff!important;
+    -webkit-transition: background-color .3s ease!important;
+    -moz-transition: background-color .3s ease!important;
+    -ms-transition: background-color .3s ease!important;
+    -o-transition: background-color .3s ease!important;
+    transition: background-color .3s ease!important;
+}
+#so-container .lower-CTA-return {
+    background: #eaeaea;
+    font-family: 'Oswald', sans-serif;
+    font-size: 2em;
+    color: #333333;
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    padding: 5px;
+    text-decoration: none;
+    margin-top: 10px;
+}

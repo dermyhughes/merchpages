@@ -1,0 +1,923 @@
+html,
+body,
+div,
+span,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+abbr,
+address,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+samp,
+small,
+strong,
+sub,
+sup,
+var,
+b,
+i,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+body {
+    line-height: 1;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+    display: block;
+}
+
+nav ul {
+    list-style: none;
+}
+
+blockquote,
+q {
+    quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
+
+a {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+ins {
+    background-color: #ff9;
+    color: #000;
+    text-decoration: none;
+}
+
+mark {
+    background-color: #ff9;
+    color: #000;
+    font-style: italic;
+    font-weight: bold;
+}
+
+del {
+    text-decoration: line-through;
+}
+
+abbr[title],
+dfn[title] {
+    border-bottom: 1px dotted;
+    cursor: help;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #cccccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+input,
+select {
+    vertical-align: middle;
+}
+
+.desktop-hide {
+    display: none;
+}
+
+
+/* matt-cole-dream-bike-merch-page-2017 */
+
+.matt-cole-dream-bike-merch-page-2017 {
+    max-width: 980px;
+    width: 100%;
+    margin: 0 auto;
+    font-family: 'Roboto Condensed', Helvetica, Arial, sans-serif;
+}
+
+
+/* matt-cole-dream-bike-merch-page-2017 HEADER */
+
+.matt-cole-dream-bike-merch-page-2017 #header {
+    background-color: #1C68AC;
+    background-image: url('http://media.chainreactioncycles.com/is/image/ChainReactionCycles/matt-cole-dream-bike-merchpage-2017-header-bg-mountains?scl=1&qlt=99&fmt=png-alpha');
+    background-size: 980px;
+    min-height: 437px;
+    height: auto;
+}
+
+.matt-cole-dream-bike-merch-page-2017 #header .logo {
+    display: inline-block;
+    float: none !important;
+}
+
+.matt-cole-dream-bike-merch-page-2017 #header aside {
+    vertical-align: top !important;
+    max-width: 450px !important;
+    width: 100% !important;
+    margin-top: 70px !important;
+    display: inline-block !important;
+}
+
+.matt-cole-dream-bike-merch-page-2017 #header h1 {
+    display: inline-block !important;
+    vertical-align: top !important;
+    text-align: left !important;
+    font-size: 72px !important;
+    font-weight: 700 !important;
+    color: #ffffff !important;
+    line-height: 68.5px !important;
+}
+
+.matt-cole-dream-bike-merch-page-2017 #header h1 strong {
+    color: #EF8137;
+}
+
+.matt-cole-dream-bike-merch-page-2017 #header h2 {
+    display: inline-block !important;
+    vertical-align: top !important;
+    text-align: left !important;
+    font-size: 40px !important;
+    font-weight: 100 !important;
+    color: #FFBB8E !important;
+    line-height: 43px !important;
+}
+
+.matt-cole-dream-bike-merch-page-2017 #header p {
+    padding-top: 5px !important;
+    display: inline-block !important;
+    vertical-align: top !important;
+    text-align: left !important;
+    font-size: 19px !important;
+    font-weight: 300 !important;
+    color: #FFFFFF !important;
+    line-height: 25px !important;
+}
+
+
+/* matt-cole-dream-bike-merch-page-2017 HEADER */
+
+
+/* matt-cole-dream-bike-merch-page-2017 TOPTEXT */
+
+.matt-cole-dream-bike-merch-page-2017 #toptext {
+    display: block;
+    text-align: left;
+    padding: 0px;
+}
+
+.matt-cole-dream-bike-merch-page-2017 #toptext p {
+    font-size: 23px !important;
+    line-height: 31px !important;
+    display: block;
+    padding: 25px;
+}
+
+.matt-cole-dream-bike-merch-page-2017 #toptext p strong {
+    padding-top: 30px;
+    color: #1C68AC;
+    font-size: 20px;
+    font-weight: 700;
+    display: block;
+}
+
+
+/* matt-cole-dream-bike-merch-page-2017 TOPTEXT */
+
+
+/* matt-cole-dream-bike-merch-page-2017 feature-container */
+
+.matt-cole-dream-bike-merch-page-2017 #feature-container {}
+
+.matt-cole-dream-bike-merch-page-2017 .current h2 {
+    background-color: #1C68AC;
+    font-size: 32px !important;
+    color: #FFFFFF;
+    text-align: center;
+    line-height: 48px !important;
+}
+
+.matt-cole-dream-bike-merch-page-2017 .logo {
+    float: none !important;
+}
+
+.matt-cole-dream-bike-merch-page-2017 .videoWrapper {
+    border-top: 10px solid #FFFFFF;
+    position: relative;
+    padding-bottom: 56.25%;
+    /* 16:9 */
+    padding-top: 25px;
+    height: auto;
+    background: rgba(40, 103, 182, 0.71);
+}
+
+.matt-cole-dream-bike-merch-page-2017 .videoWrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.matt-cole-dream-bike-merch-page-2017 .ytp-thumbnail-overlay-image {
+    background-image: url("http://media.chainreactioncycles.com/is/image/ChainReactionCycles/matt-cole-dream-bike-merchpage-2017-youtube-cover?scl=1&qlt=99&fmt=jpg") !important;
+}
+
+
+/* matt-cole-dream-bike-merch-page-2017 feature-container */
+
+.matt-cole-dream-bike-merch-page-2017 .feature-main {
+    background-color: #FFFFFF;
+}
+
+.matt-cole-dream-bike-merch-page-2017 .nukerproof-mega-banner {
+    margin-top: 40px;
+    height: auto;
+    background-color: #FFBC00;
+    text-align: left;
+    color: #000000;
+}
+
+.matt-cole-dream-bike-merch-page-2017 .shimano-top-banner {
+    margin-top: 40px;
+    height: auto;
+    background-color: #00ADF1;
+    text-align: left;
+    color: #000000;
+}
+
+.matt-cole-dream-bike-merch-page-2017 .nukerproof-mega-banner .feature-text {
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 25px;
+}
+
+.matt-cole-dream-bike-merch-page-2017 .nukerproof-mega-banner .feature-text h2 {
+    text-align: left;
+    background-color: #FFBC00;
+    font-weight: 500 !important;
+    font-size: 44px !important;
+    color: #000000;
+    line-height: 1em !important;
+    padding: .5em 0em .5em 0em;
+}
+
+.matt-cole-dream-bike-merch-page-2017 .nukerproof-mega-banner .feature-text p {
+    font-size: 22px !important;
+    line-height: 28px !important;
+}
+
+.matt-cole-dream-bike-merch-page-2017 .nukerproof-mega-banner .feature-text a {
+    margin-top: 1em;
+    display: block;
+    color: #000000;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.matt-cole-dream-bike-merch-page-2017 .nukerproof-mega-banner .feature-image {
+    width: 400px;
+    display: inline-block;
+}
+
+.matt-cole-dream-bike-merch-page-2017 .nukerproof-mega-banner .feature-image .nukeproof-mega-frame {
+    width: 85%;
+    padding: 10px;
+}
+
+.matt-cole-dream-bike-merch-page-2017 .nukerproof-mega-banner .feature-image .nukeproof-mega-frame {}
+
+.matt-cole-dream-bike-merch-page-2017 #trio .brand-product:hover {}
+
+.matt-cole-dream-bike-merch-page-2017 .feature-button h2 {
+    background-color: #3B3B3B;
+    color: #ffffff;
+    font-size: 25px;
+    text-decoration: none;
+    border-bottom: 3px solid #ffffff;
+    line-height: 29px;
+    padding: 11px 0px 11px 0px;
+    margin: 10px 0px 0px 0px;
+}
+
+.matt-cole-dream-bike-merch-page-2017 #trio {
+    width: 100%;
+    display: flex;
+    clear: both;
+}
+
+.matt-cole-dream-bike-merch-page-2017 #trio li {
+    width: 33.3%;
+    display: inline-flex;
+    height: 314px;
+}
+
+.matt-cole-dream-bike-merch-page-2017 #trio li {
+    background-color: #ffffff;
+}
+
+.matt-cole-dream-bike-merch-page-2017 #trio li {
+    background-color: #ffffff;
+    display: block;
+    position: relative;
+}
+
+.matt-cole-dream-bike-merch-page-2017 #trio li.one {
+    background: #ffffff;
+}
+
+.matt-cole-dream-bike-merch-page-2017 #trio li.two {
+    background: #ffffff;
+    border-left: 3.5px solid #ffffff;
+    border-right: 3.5px solid #ffffff;
+}
+
+.matt-cole-dream-bike-merch-page-2017 #trio li.three {
+    background: #ffffff;
+}
+
+.matt-cole-dream-bike-merch-page-2017 #trio li a {
+    text-decoration: none;
+    color: #ffffff;
+    bottom: 0;
+    left: 0;
+    padding: 1em;
+    width: 100%;
+    font-size: 20px;
+    font-weight: 100;
+    position: absolute;
+}
+
+.matt-cole-dream-bike-merch-page-2017 #trio li .brand-product {
+    color: #ffffff;
+    top: 0;
+    right: 20px;
+    position: absolute;
+    padding: 0;
+}
+
+.matt-cole-dream-bike-merch-page-2017 #trio li .brand-product img {
+    color: #ffffff;
+    width: auto;
+    right: 0px;
+    position: absolute;
+    text-decoration: none;
+    width: 100%;
+}
+
+.matt-cole-dream-bike-merch-page-2017 #trio li .brand-logo {
+    color: #ffffff;
+    bottom: 50px;
+    width: 20%;
+    left: 0px;
+    position: absolute;
+    text-decoration: none;
+}
+
+.matt-cole-dream-bike-merch-page-2017 .weeks {
+    display: block;
+    margin: 0 auto;
+}
+
+.matt-cole-dream-bike-merch-page-2017 .weeks ul.dreambike-tabs li {
+    display: block;
+    cursor: pointer;
+    height: 75px;
+    border-radius: 100%;
+    width: 90px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 20px !important;
+    border: 15px solid #1C68AC;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin: 0 1em;
+}
+
+.matt-cole-dream-bike-merch-page-2017 .weeks ul.dreambike-tabs li:nth-child(2) {
+    border: 15px solid #D6174F;
+    background: #fff;
+}
+
+.matt-cole-dream-bike-merch-page-2017 .weeks ul.dreambike-tabs li:nth-child(3) {
+    border: 15px solid #33ba4b;
+    background: #fff;
+}
+
+.matt-cole-dream-bike-merch-page-2017 .weeks strong {
+    color: #006199;
+    text-transform: uppercase;
+    font-size: 1em !important;
+}
+
+.matt-cole-dream-bike-merch-page-2017 .weeks ul.dreambike-tabs .comingsoon {
+    border: 15px solid #E4E4E4;
+    background-color: #CCCCCC;
+    font-size: .8em !important;
+    color: #000000;
+}
+
+.matt-cole-dream-bike-merch-page-2017 .weeks ul.dreambike-tabs .comingsoon strong {
+    color: #000000;
+}
+
+@media only screen and (max-width: 480px) {
+    .hide {
+        display: none;
+    }
+    .desktop-hide {
+        display: block;
+    }
+    .matt-cole-dream-bike-merch-page-2017 #header aside {
+        margin-top: 5px;
+    }
+    .matt-cole-dream-bike-merch-page-2017 #header {
+        background-image: url('http://media.chainreactioncycles.com/is/image/ChainReactionCycles/matt-cole-dream-bike-merchpage-2017-header-bg-mobile-mountains?scl=1&qlt=99&fmt=png-alpha');
+        background-size: 150%;
+        text-align: center;
+        padding-bottom: 2em;
+    }
+    .matt-cole-dream-bike-merch-page-2017 #header h1 {
+        font-size: 42px;
+        text-align: center;
+    }
+    .matt-cole-dream-bike-merch-page-2017 #header h2 {
+        font-size: 38px;
+        text-align: center;
+        line-height: 1.25em;
+        font-weight: 100;
+    }
+    .matt-cole-dream-bike-merch-page-2017 #header p {
+        font-size: 18px;
+        line-height: 25px;
+        text-align: center;
+        width: 90%;
+    }
+    .matt-cole-dream-bike-merch-page-2017 #toptext {
+        width: 100%;
+        padding: 0;
+        text-align: center;
+        margin-top: 2em;
+    }
+    .matt-cole-dream-bike-merch-page-2017 #toptext p {
+        padding: 0;
+        text-align: center;
+        margin: 0 auto;
+        width: 90%;
+    }
+    .matt-cole-dream-bike-merch-page-2017 #toptext p strong {
+        padding-top: 1em;
+        padding-bottom: 1em;
+    }
+    .matt-cole-dream-bike-merch-page-2017 #trio li.two {
+        border: 0px;
+    }
+    .matt-cole-dream-bike-merch-page-2017 .nukerproof-mega-banner {
+        margin-top: 10px;
+        position: relative;
+    }
+    .matt-cole-dream-bike-merch-page-2017 .nukerproof-mega-banner .feature-image {
+        width: 100%;
+        display: block;
+        position: absolute;
+        top: 0;
+    }
+    .matt-cole-dream-bike-merch-page-2017 .nukerproof-mega-banner .feature-text {
+        display: block;
+        vertical-align: bottom;
+        padding: 2em 2em;
+        padding-top: 70%;
+    }
+    .matt-cole-dream-bike-merch-page-2017 #trio li {
+        background-color: #0090D2;
+        display: block;
+        position: relative;
+        height: 520px;
+        width: 100%;
+    }
+    .matt-cole-dream-bike-merch-page-2017 #trio li a {
+        padding: 0;
+        line-height: 2.5em;
+        margin-left: 0px;
+        font-size: 2em;
+    }
+    .matt-cole-dream-bike-merch-page-2017 #trio li .brand-logo {
+        bottom: 75px;
+    }
+    .matt-cole-dream-bike-merch-page-2017 #trio {
+        width: 100%;
+        display: block;
+        clear: both;
+    }
+    .matt-cole-dream-bike-merch-page-2017 .weeks ul.dreambike-tabs li strong {
+        color: #FFFFFF;
+    }
+    .matt-cole-dream-bike-merch-page-2017 .weeks ul.dreambike-tabs li {
+        width: 100%;
+        border: none;
+        background: #1C68AC;
+        color: #ffffff;
+        border-radius: 0;
+        padding: 0;
+        margin: 0;
+        line-height: 75px !important;
+    }
+    .matt-cole-dream-bike-merch-page-2017 .weeks ul.dreambike-tabs li:nth-child(2) {
+        background: #D6174F;
+    }
+    .matt-cole-dream-bike-merch-page-2017 .weeks ul.dreambike-tabs li:nth-child(3) {
+        background: #33ba4b;
+    }
+    .matt-cole-dream-bike-merch-page-2017 .weeks ul.dreambike-tabs .comingsoon strong {
+        color: #FFFFFF;
+    }
+    .matt-cole-dream-bike-merch-page-2017 .weeks ul.dreambike-tabs .comingsoon strong:after {
+        content: " - ";
+    }
+    .matt-cole-dream-bike-merch-page-2017 .weeks ul.dreambike-tabs .comingsoon {
+        border: 0px;
+        line-height: 46px !important;
+        height: 44px;
+        font-size: 14px !important;
+        color: #000000;
+        margin-top: 10px;
+    }
+    .matt-cole-dream-bike-merch-page-2017 #trio li .brand-product {
+        right: 0;
+        height: 100%;
+    }
+    .matt-cole-dream-bike-merch-page-2017 #trio li a {
+        padding: 0;
+        font-size: 1em;
+        line-height: 1em;
+        bottom: 10px;
+        font-size: 1.5em;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .matt-cole-dream-bike-merch-page-2017 #header h1 {
+        font-size: 34px;
+    }
+    .matt-cole-dream-bike-merch-page-2017 #header h2 {
+        font-size: 32px;
+        width: 80%;
+    }
+    .matt-cole-dream-bike-merch-page-2017 #trio li {
+        background-color: #0090D2;
+        display: block;
+        position: relative;
+        width: 100%;
+        height: 370px;
+    }
+    .matt-cole-dream-bike-merch-page-2017 #trio li .brand-product {
+        right: 0;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+    .matt-cole-dream-bike-merch-page-2017 #trio li a {
+        padding: 0;
+        font-size: 1em;
+        line-height: 1em;
+        bottom: 10px;
+        font-size: 1.5em;
+    }
+    .matt-cole-dream-bike-merch-page-2017 #trio li .brand-logo {
+        color: #ffffff;
+        bottom: 50px;
+        width: auto;
+        left: 0px;
+        position: absolute;
+        text-decoration: none;
+    }
+}
+
+
+/*  SECTIONS  ============================================================================= */
+
+.section {
+    clear: both;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+/*  GROUPING  ============================================================================= */
+
+.group:before,
+.group:after {
+    content: "";
+    display: table;
+}
+
+.group:after {
+    clear: both;
+}
+
+.group {
+    zoom: 1;
+}
+
+
+/*  GRID COLUMN SETUP   ==================================================================== */
+
+.col {
+    display: block;
+    float: left;
+    margin: 1% 0 1% 1.6%;
+    background: #ffffff;
+    padding: 1em 0;
+    text-align: center;
+}
+
+.col:first-child {
+    margin-left: 0;
+}
+
+@media only screen and (max-width: 480px) {
+    .col {
+        margin: 1% 0 1% 0%;
+    }
+}
+
+
+/*  GRID OF THREE   ============================================================================= */
+
+.span_3_of_3 {
+    width: 100%;
+}
+
+.span_2_of_3 {
+    width: 66.13%;
+}
+
+.span_1_of_3 {
+    width: 32.26%;
+}
+
+
+}
+
+/*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
+@media only screen and (max-width: 480px) {
+    .span_3_of_3 {
+        width: 100%;
+    }
+    
+    .span_2_of_3 {
+        width: 100%;
+    }
+    
+    .span_1_of_3 {
+        width: 100%;
+    }
+}
+
+/*  GRID OF FIVE   ============================================================================= */
+.span_5_of_5 {
+    width: 100%;
+}
+.span_4_of_5 {
+    width: 79.68%;
+}
+.span_3_of_5 {
+    width: 59.36%;
+}
+.span_2_of_5 {
+    width: 39.04%;
+}
+.span_1_of_5 {
+    width: 18.72%;
+}
+
+/*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
+@media only screen and (max-width: 480px) {
+    .span_5_of_5 {
+        width: 100%;
+    }
+    
+    .span_4_of_5 {
+        width: 100%;
+    }
+    
+    .span_3_of_5 {
+        width: 100%;
+    }
+    
+    .span_2_of_5 {
+        width: 100%;
+    }
+    
+    .span_1_of_5 {
+        width: 100%;
+    }
+}
+.span_1 {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    background: #ffffff;
+    padding: 0;
+    width: 100%;
+}
+.feature-main {
+    background: cyan;
+    padding-bottom: 10px;
+}
+ul.dreambike-tabs {
+    padding: 0px;
+    list-style: none;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    height: 200px;
+    display: inline-block;
+    position: static;
+}
+ul.dreambike-tabs li {
+    display: inline-block;
+    cursor: pointer;
+}
+ul.dreambike-tabs li.current {
+    background: #FFFFFF;
+    color: #000000;
+}
+.dreambike-tab-content {
+    display: none;
+    -webkit-animation: fadein 1s;
+    /* Safari, Chrome and Opera > 12.1 */
+    
+    -moz-animation: fadein 1s;
+    /* Firefox < 16 */
+    
+    -ms-animation: fadein 1s;
+    /* Internet Explorer */
+    
+    -o-animation: fadein 1s;
+    /* Opera < 12.1 */
+    
+    animation: fadein 1s;
+}
+@keyframes fadein {
+    from {
+        opacity: 0.7;
+    }
+    
+    to {
+        opacity: 1;
+    }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+    from {
+        opacity: 0.7;
+    }
+    
+    to {
+        opacity: 1;
+    }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+    from {
+        opacity: 0.7;
+    }
+    
+    to {
+        opacity: 1;
+    }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+    from {
+        opacity: 0.7;
+    }
+    
+    to {
+        opacity: 1;
+    }
+}
+
+/* Opera < 12.1 */
+@-o-keyframes fadein {
+    from {
+        opacity: 0.7;
+    }
+    
+    to {
+        opacity: 1;
+    }
+}
+.dreambike-tab-content.current {
+    display: inherit;
+}
+img {
+    display: block;
+}
+.wide-image {
+    display: block;
+    max-width: 100%;
+    max-height: auto;
+    margin-left: 20px;
+}
+
+.top-banner {
+    width: 100%;
+}
+.blurred {
+    -webkit-filter: blur(15px);
+    -moz-filter: blur(15px);
+    -o-filter: blur(15px);
+    -ms-filter: blur(15px);
+    filter: blur(15px);
+}
+.body-padding {
+    margin: 0;
+    margin-top: 10px;
+}
